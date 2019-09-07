@@ -1,0 +1,10 @@
+/node_modules
+npm-debug.log
+/*.pid
+/forever
+/*.metadata.json
+.DS_Store
+/uploads
+/python/training_and_testing_data/
+/python/trained_model.h5
+/python/env
